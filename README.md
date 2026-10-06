@@ -8239,6 +8239,20 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [DiskWise](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only delete path moves files to the Trash; whole-volume ring map, per-cache knowledge base, zero telemetry.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://dreamofxm.github.io/diskwise/](https://dreamofxm.github.io/diskwise/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/DreamOfXM/diskwise/main/docs/demo/overview-en.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control via Telegram.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
